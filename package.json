@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "@types/styled-components": "^5.1.26",
     "eslint-config-mdh-typescript-react": "^1.5.0"
   },
   "prettier": "eslint-config-mdh-typescript-react/prettier"
