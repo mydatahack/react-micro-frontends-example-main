@@ -2,6 +2,7 @@
   "name": "react-micro-frontends-example-main",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mydatahack.github.io/react-micro-frontends-example",
   "dependencies": {
     "@mdhnpm/react-mdh-blog-components": "^2.5.0",
     "@testing-library/jest-dom": "^5.16.5",
